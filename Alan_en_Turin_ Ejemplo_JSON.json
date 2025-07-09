@@ -1,0 +1,81 @@
+{ 
+"version": "Release 2.0",  
+"equipos": [
+    {
+      "nombre_equipo": "Alan en Turin",
+      "identidad_equipo": "https://i.ibb.co/Xf0T63K3/Alan-en-Turin.png",
+      "direccion": {
+        "calle": "Av. costanera",
+        "pais": "argentina",
+        "ciudad": "Resistencia"
+        },
+      "link": "https://frre.cvg.utn.edu.ar/course/view.php?id=399",
+      "carrera": "Ingenieria en sistemas de Informacion",
+      "asignatura": "Sintaxis y semantica de Lenguajes",
+      "universidad_regional": "UTN Facultad Regional Resistencia",
+      "alianza_equipo": "El equipo se ogranizo utilizando el grupo de WhatsApp, las llamadas de Discord y la division de las tareas teniendo en cuenta la matriz de habilidades ",
+      "integrantes": [
+        {
+                "nombre": "Valentino Vallejos Garcia",
+                "edad": 20,
+                "cargo": "Coder",
+                "foto": "https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2023/03/full_stack_web_developer_salary-1.jpg",
+                "email": "VVG@valenmail.com",
+                "habilidades": "jugador de Counter Strike",
+                "salario": 5.45,
+                "activo": true
+        },
+        {
+                "nombre": "Alfonsina Cohen",
+                "cargo": "Diseñadora Grafica",
+                "foto": "https://www.esdip.com/wp-content/uploads/2024/03/trabajo-de-diseno-grafico.jpg",
+                "email": "AC@alfonmail.com",
+                "habilidades": "diseñar graficamente",
+                "salario": 1000000.45,
+                "activo": true
+        },
+        {
+                "nombre": "Facundo Kundycki",
+                "edad": 20,
+                "cargo": "Cebador de mates",
+                "foto": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-Y7UZ4b1729111829410-1729196208.jpg?auth=47e2f1ec1063c9227ce0e381e4b8a8eb873788fe8a4ca1b579bd2378287eb98c&width=767",
+                "email": "FK@facumail.com",
+                "habilidades": "cebar mates",
+                "salario": 300.45,
+                "activo": true
+        } ],
+        "proyectos": [
+                {
+                  "nombre": "Desarrollar una IA",
+                  "estado": "In progress",
+                  "resumen": "Desarrollar una Inteligencia Artificial que sea artificialmente inteligente",
+                  "tareas": [
+                    {
+                        "nombre": "Crear algo inteligente",
+                        "estado": "In progress",
+                        "resumen": "Crear algo inteligente utilizando libros",
+                        "fecha_inicio": "2025-03-18"
+                    },
+                      {
+                        "resumen": "Crear una maquina artificial",
+                        "nombre": "Crear algo artificial",
+                        "estado": "To Do",
+                        "fecha_inicio": null,
+                        "fecha_fin": "2025-06-08"
+                    },
+                      {
+                        "estado": "To Do",
+                        "nombre": "Crear algo inteligentemente artificial",
+                        "resumen": "Presentacion final. Unir algo inteligente y la maquina artificial",
+                        "fecha_inicio": "2025-04-18",
+                        "fecha_fin": "2025-07-06"
+                    }],
+                  "fecha_inicio": "2025-03-18",
+                  "fecha_fin": "2025-07-06",
+                  "video": "https://youtu.be/o-NXJbObaHY?si=ffEN1hRw76NQwDwX",
+                  "conclusion": "por escribirse"
+                } ]
+    }
+  ],
+  "firma_digital": "Alan en Turin"
+}

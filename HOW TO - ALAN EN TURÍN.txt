@@ -1,0 +1,10 @@
+HOW TO - ALAN EN TURÍN
+
+- Paso 1: Abrir el ejecutable.
+- Paso 2: Se despliega un menú con cuatro opciones
+	1. Ingresar ruta del archivo (se debe ingresar la dirección del path del archivo a procesar)
+	2. Leer desde el archivo JSON (se abre el explorador de archivos y se debe seleccionar el archivo a procesar)
+	3. Ingresar el archivo por teclado (se ingresa el archivo JSON mediante un imput)
+	4. Terminar
+- Paso 3: Luego de haber seleccionado una opción, su archivo será procesado y en la carpeta fuente se encontrará el archivo HTML de salida)
+
